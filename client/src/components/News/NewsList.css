@@ -1,0 +1,16 @@
+.NewsList-list {
+  /* height: auto; */
+  max-height: 100vh;
+  overflow-y: auto;
+  /* -webkit-overflow-scrolling: touch; */
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background: #c2c9d2;
+}

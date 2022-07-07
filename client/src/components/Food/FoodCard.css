@@ -1,0 +1,7 @@
+.FoodCard .card {
+  flex-direction: row;
+}
+.FoodCard .card img {
+  width: 30%;
+  max-height: min-content;
+}
